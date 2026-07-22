@@ -10,3 +10,4 @@
 - Supply should be focused strictly on product demands and inventory should be properly managed to avoid out-of-stock situations.
 ### RETAILER AND PARTNER MANAGEMENT
 - Adidas should build stronger relationships with top performing retailers, optimize relationships with key distributors like foot Locker and also renegotiate relationships and contracts with underperforming partners.
+![Dashboard](dp.Adidas PNG)
