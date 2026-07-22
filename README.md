@@ -11,4 +11,4 @@
 ### RETAILER AND PARTNER MANAGEMENT
 - Adidas should build stronger relationships with top performing retailers, optimize relationships with key distributors like foot Locker and also renegotiate relationships and contracts with underperforming partners.
   
-![Dashboard](dpAdidas.PNG)
+![Dashboard](dp Adidas.PNG)
